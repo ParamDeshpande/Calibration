@@ -5,8 +5,8 @@ calculation of distortion coefficients, to correct camera distortions (like )
 
 ### Prerequisites
 
-cpp 11/14
-opencv 3.4(MINIMUM)
+cpp 11/14 
+opencv 3.4
 
 ### Installing
 
