@@ -1,6 +1,6 @@
 # Camera Calibration
 
-calculation of distortion coefficients, aruco markers for AR , webcam access (low level for development)
+calculation of distortion coefficients,generation of aruco markers for AR , webcam access (low level for development)
 
 ### Prerequisites
 
