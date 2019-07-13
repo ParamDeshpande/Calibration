@@ -1,6 +1,6 @@
 # Camera Calibration
 
-code to calc distortion coefficients of a camera. 
+calculation of distortion coefficients, to correct camera distortions (like )
 
 
 ### Prerequisites
